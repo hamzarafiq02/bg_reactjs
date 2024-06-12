@@ -44,7 +44,7 @@ const Remover: React.FC = () => {
         <div className="background w-screen h-screen ">
             <div className="remover_container text-slate-100 flex justify-evenly items-center flex-col w-screen h-screen md:flex-col lg:flex-col">
                 <div className="title">
-                    <h4 className="lg:text-5xl text-3xl">Remove Background <span className=" inline-block">with ease</span> </h4>
+                    <h4 className="lg:text-5xl text-3xl">Photodit </h4>
                 </div>
                 <div className="flex justify-center items-center flex-col h-1/2">
                     <form className="info_container flex justify-between  flex-col h-1/6 w-fit ">
